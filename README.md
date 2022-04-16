@@ -1,7 +1,7 @@
 # Hola soy Giuliano Viacava F. ⚡
 
-- Estudiante de Ingeniería ejecución eléctrica
-- apasinado por la programación
+-🛠 Estudiante de Ingeniería ejecución eléctrica
+-🛠 apasinado por la programación
 <!--
 **Giulianovfz/Giulianovfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
