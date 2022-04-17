@@ -1,9 +1,14 @@
 # Hola soy Giuliano Viacava F. ⚡
 
-🛠 Estudiante de Ingeniería ejecución eléctrica</br>
-🛠 apasinado por la programación
+:hammer_and_wrench: Estudiante de Ingeniería ejecución eléctrica<br>
+:hammer_and_wrench: apasionado por la programación
+
+# En :construction: Readme
+
 <!--
 **Giulianovfz/Giulianovfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- [ ] \(Optional) Abre una propuesta de seguimiento
 
 Here are some ideas to get you started:
 
