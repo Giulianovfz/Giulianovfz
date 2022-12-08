@@ -4,6 +4,7 @@
 :hammer_and_wrench: apasionado por la programación
 
 # En :construction: Readme
+![](https://komarev.com/ghpvc/?username=Giulianovfz&color=brightgreen&style=plastic)
 
 <!--
 **Giulianovfz/Giulianovfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
