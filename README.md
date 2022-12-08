@@ -3,8 +3,11 @@
 :hammer_and_wrench: Estudiante de Ingeniería ejecución eléctrica<br>
 :hammer_and_wrench: apasionado por la programación
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=Giulianovfz&color=brightgreen&style=plastic&label=Profile+Views+Giulianovf)
+
 # En :construction: Readme
-![](https://komarev.com/ghpvc/?username=Giulianovfz&color=brightgreen&style=plastic)
 
 <!--
 **Giulianovfz/Giulianovfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
