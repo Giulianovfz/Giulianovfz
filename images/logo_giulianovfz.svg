@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="31 0 438 140" width="438" height="140">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="500" height="140" fill="#0a1b2b"/>
+
+  <!-- Favicon G circuito: 58×58px, centro óptico alineado al texto (y=36..94) -->
+  <g transform="translate(85, 36) scale(0.11328)">
+    <rect width="512" height="512" rx="60" fill="#0a1b2b"/>
+    <rect x="15" y="15" width="482" height="482" rx="45" fill="none" stroke="#fd7e14" stroke-width="10"/>
+    <polyline
+      points="175,258 417,258 435,276 435,412 417,430 95,430 77,412 77,100 95,82 399,82"
+      fill="none" stroke="#fd7e14" stroke-width="26"
+      stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10"/>
+    <polygon points="412,62 412,102 447,82" fill="#fd7e14"/>
+    <circle cx="175" cy="258" r="34" fill="#fd7e14"/>
+    <circle cx="175" cy="258" r="16" fill="#0a1b2b"/>
+  </g>
+
+  <!-- Nombre: x=149 (icono 85+58 + gap 6) -->
+  <text x="149" y="82"
+        font-family="'Montserrat', Arial, sans-serif"
+        font-size="48"
+        font-weight="600"
+        fill="#fd7e14">giulianovfz</text>
+
+  <!-- Línea divisora alineada al grupo (x=85..415) -->
+  <line x1="85" y1="98" x2="415" y2="98" stroke="#fd7e14" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Subtítulo centrado al canvas -->
+  <text x="250" y="112"
+        text-anchor="middle"
+        font-family="'Montserrat', Arial, sans-serif"
+        font-size="9"
+        font-weight="300"
+        fill="#94A3B8"
+        letter-spacing="3">ELECTRÓNICA · ELECTRICIDAD · SOFTWARE · HARDWARE</text>
+
+</svg>
