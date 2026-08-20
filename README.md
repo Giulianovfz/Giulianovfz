@@ -1,6 +1,8 @@
 # Hola soy Giuliano Viacava F. ⚡
 
-![logo completo de giulianovfz](images/logo_giulianovfz.svg)
+<p align="center">
+  <img src="images/logo_giulianovfz.svg" alt="Logo completo de Giulianovfz">
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Giulianovfz&color=brightgreen&style=plastic&label=Profile+Views+Giulianovf)
 
